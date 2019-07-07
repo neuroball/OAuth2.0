@@ -1,2 +1,4 @@
-*.pyc
+.vscode
+client_secrets.json
+database_setup.pyc
 .vagrant
